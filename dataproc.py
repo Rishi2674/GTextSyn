@@ -168,7 +168,7 @@ def get_train_test(study, ratio):
 
             save_set.append(((gA, gB, cellGene), item.synergy_loewe))
 
-        with open(f'./data/l.pkl', 'wb') as f:
+        with open(f'./data/{study}_{l}.pkl', 'wb') as f:
             pickle.dump(save_set, f)
 
 
