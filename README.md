@@ -1,4 +1,4 @@
-# A Deep Neural Network for Predicting SynergisticDrug Combinations on Cancer
+# A Deep Neural Network for Predicting Synergistic Drug Combinations on Cancer
 
 This code repository is the supporting material in the paper. In this paper, we propose a novel approach called GTextSyn, whichleverages the integration of chemical structure data and gene expression data topredict the synergistic effects of drug combinations.
 
